@@ -32,6 +32,27 @@ i,e,a,a,a,a,a,f,i,i,e,a,b,a,f,i
 i,d,d,d,d,d,d,d,i,i,d,d,d,d,d,i
 i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
 NAME rogue final
+EXT 12,13 1 7,11
+PAL 0
+
+ROOM 1
+i,i,i,i,i,i,i,i,i,i,i,i,c,c,c,c
+i,i,i,i,i,i,i,i,i,i,i,i,e,a,a,f
+i,i,i,i,i,i,i,i,i,i,i,i,e,a,a,f
+i,i,i,i,i,i,i,i,i,i,i,i,e,a,a,f
+i,i,h,h,h,h,h,h,h,i,h,h,e,a,a,f
+i,i,i,i,i,h,c,c,l,c,i,h,j,a,a,f
+i,i,i,i,i,h,e,a,a,f,i,h,d,d,d,d
+c,c,c,c,i,h,j,a,a,f,h,h,i,i,i,i
+e,a,a,f,i,h,e,a,a,f,h,i,i,i,i,i
+e,a,n,f,h,h,e,a,a,f,h,i,i,i,i,i
+e,a,a,f,h,h,e,a,a,f,h,i,i,i,i,i
+e,a,a,f,h,h,e,m,a,f,h,i,i,i,i,i
+e,a,a,g,h,i,e,a,a,g,h,i,i,i,i,i
+e,a,a,f,h,i,d,d,d,d,i,i,i,i,i,i
+e,a,a,g,h,i,i,i,i,i,i,i,i,i,i,i
+d,d,d,d,i,i,i,i,i,i,i,i,i,i,i,i
+NAME hack final
 PAL 0
 
 TIL a
@@ -170,6 +191,28 @@ TIL l
 00001000
 00000000
 NAME top exit
+
+TIL m
+00000000
+00000100
+00001000
+00010000
+00100000
+00010000
+00001000
+00000100
+NAME up-stair
+
+TIL n
+00000000
+00100000
+00010000
+00001000
+00000100
+00001000
+00010000
+00100000
+NAME down-stair
 
 SPR A
 00111100
